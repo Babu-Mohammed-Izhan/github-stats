@@ -1,6 +1,6 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/Babu-Mohammed-Izhan/github-stats)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/Babu-Mohammed-Izhan/github-stats">
 
 ![](https://github.com/Babu-Mohammed-Izhan/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Babu-Mohammed-Izhan/github-stats/blob/master/generated/languages.svg)
